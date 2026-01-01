@@ -1,0 +1,10 @@
+{
+    "model_id": "gemini-3-pro-image-preview",
+    "prompt": "Replace the girl in the image with the reference girl with pink hair. The result has the same face and hair as the girl in pink hair reference image. The style is realistic, high detail, professional photography. Make sure the lighting, background and angle match the original image",
+    "aspect_ratio": "9:16",
+    "resolution": "2K",
+    "num_images": 5,
+    "input_dir": "input",
+    "output_dir": "output",
+    "output_name": "result"
+}
