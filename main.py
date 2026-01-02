@@ -49,6 +49,7 @@ generate_content_config = types.GenerateContentConfig(
     response_modalities=['Text', 'Image'],
     image_config=types.ImageConfig(
         aspect_ratio=aspect_ratio,
+        image_size=resolution
     ),
     safety_settings=safety_settings
 )
